@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name atmega88-mini-demo-board-rescue)(type Legacy)(uri ${KIPRJMOD}/atmega88-mini-demo-board-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "atmega88-mini-demo-board-rescue")(type "KiCad")(uri "${KIPRJMOD}/atmega88-mini-demo-board-rescue.kicad_sym")(options "")(descr ""))
 )
